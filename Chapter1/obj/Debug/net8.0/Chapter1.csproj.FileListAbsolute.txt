@@ -1,0 +1,15 @@
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\grokking-algo\Chapter1\bin\Debug\net8.0\Chapter1.exe
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\grokking-algo\Chapter1\bin\Debug\net8.0\Chapter1.deps.json
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\grokking-algo\Chapter1\bin\Debug\net8.0\Chapter1.runtimeconfig.json
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\grokking-algo\Chapter1\bin\Debug\net8.0\Chapter1.dll
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\grokking-algo\Chapter1\bin\Debug\net8.0\Chapter1.pdb
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\grokking-algo\Chapter1\obj\Debug\net8.0\Chapter1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\grokking-algo\Chapter1\obj\Debug\net8.0\Chapter1.AssemblyInfoInputs.cache
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\grokking-algo\Chapter1\obj\Debug\net8.0\Chapter1.AssemblyInfo.cs
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\grokking-algo\Chapter1\obj\Debug\net8.0\Chapter1.csproj.CoreCompileInputs.cache
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\grokking-algo\Chapter1\obj\Debug\net8.0\Chapter1.sourcelink.json
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\grokking-algo\Chapter1\obj\Debug\net8.0\Chapter1.dll
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\grokking-algo\Chapter1\obj\Debug\net8.0\refint\Chapter1.dll
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\grokking-algo\Chapter1\obj\Debug\net8.0\Chapter1.pdb
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\grokking-algo\Chapter1\obj\Debug\net8.0\Chapter1.genruntimeconfig.cache
+E:\Imene\Formation\Full-stuck-bootcump\c-sharp-problem-solving\grokking-algo\Chapter1\obj\Debug\net8.0\ref\Chapter1.dll
